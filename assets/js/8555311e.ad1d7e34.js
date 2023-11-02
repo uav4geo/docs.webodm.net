@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[102],{348:t=>{t.exports=JSON.parse('{"title":"How To","slug":"how-to/","permalink":"/how-to/","navigation":{"previous":{"title":"Creating a Task","permalink":"/getting-started/creating-a-task"},"next":{"title":"Use Ground Control Points","permalink":"/how-to/ground-control-points"}}}')}}]);
