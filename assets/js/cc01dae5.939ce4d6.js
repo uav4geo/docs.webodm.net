@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[303],{9085:e=>{e.exports=JSON.parse('{"title":"References","slug":"references/","permalink":"/references/","navigation":{"previous":{"title":"Share a Task","permalink":"/how-to/share-a-task"},"next":{"title":"Task Options","permalink":"/references/task-options"}}}')}}]);
