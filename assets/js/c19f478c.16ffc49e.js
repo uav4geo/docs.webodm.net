@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[898],{6581:t=>{t.exports=JSON.parse('{"title":"Getting Started","description":"Completing a project from start to finish.","slug":"/","permalink":"/","navigation":{"next":{"title":"Image Capture","permalink":"/getting-started/image-capture"}}}')}}]);
