@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[303],{9085:e=>{e.exports=JSON.parse('{"title":"References","slug":"references/","permalink":"/references/","navigation":{"previous":{"title":"Process Thermal Images","permalink":"/how-to/process-thermal-images"},"next":{"title":"Task Options","permalink":"/references/task-options"}}}')}}]);
