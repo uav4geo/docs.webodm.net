@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[898],{6581:e=>{e.exports=JSON.parse('{"title":"Getting Started","description":"Welcome! This documentation is here to help you get the most out of WebODM Lightning. \ud83d\ude80","slug":"/","permalink":"/","navigation":{"next":{"title":"Image Capture","permalink":"/getting-started/image-capture"}}}')}}]);
