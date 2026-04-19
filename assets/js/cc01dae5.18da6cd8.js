@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[303],{9992:e=>{e.exports=JSON.parse('{"title":"References","slug":"references/","permalink":"/references/","navigation":{"previous":{"title":"Add Panoramas and Videos","permalink":"/how-to/add-panoramas-and-videos"},"next":{"title":"Task Options","permalink":"/references/task-options"}}}')}}]);
